@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Fuad9&show_icons=true&theme=highcontrast)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fuad9&repo=github-readme-stats)
