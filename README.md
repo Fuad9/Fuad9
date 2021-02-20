@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Fuad
 
-- 🔭 I’m currently working as a Front End Developer 
+- 🔭 I’m currently working as a Full Stack Developer 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on creating creative contents
 - 💬 Ask me about anything related to javascript
 - ⚡ Fun fact: I love to explore the world
 
-### Stay connected with me:
+### Stay connected:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/irtizaalfuad/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/al.fuad.583/) 
