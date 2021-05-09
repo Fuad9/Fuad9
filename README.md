@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Fuad
 
-- 🔭 I’m currently working as a Full Stack Developer 
+- 🔭 I’m currently working as a Front End Developer 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on creating creative contents
 - 💬 Ask me about anything related to javascript
