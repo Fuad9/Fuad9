@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Fuad
 
 - 🔭 I’m currently working as a Front End Developer 
-- 🌱 I’m currently learning typescript, docker, graphql
+- 🌱 I’m currently learning typescript, nextjs, redis, docker, graphql, 
 - 👯 I’m looking to collaborate on creating creative contents
 - 💬 Ask me about anything related to javascript
 - ⚡ Fun fact: I love to explore the world
